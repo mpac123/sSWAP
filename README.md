@@ -1,5 +1,5 @@
 # sSWAP
-Web application supporting exchange of ideas and cooperation between students. Project was realised during Best Hacking League 2017 in Warsaw University of Technology.
+Web application supporting exchange of ideas and cooperation between students. Project was carried out during Best Hacking League 2017 in Warsaw University of Technology.
 ## Front-end
 Made with:
 1. Bootstrap 
